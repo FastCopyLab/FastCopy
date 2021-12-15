@@ -13,8 +13,11 @@ A clear and concise description of what the bug is.
 **To Reproduce**
 Steps to reproduce the behavior:
 
+**Command line options and various settings**
+Describes command line options and settings that have been changed from the standard.
+
 **Version/Environment**
- - IP Messenger version (principle, latest ver) :
+ - FastCopy ver (principle, latest ver) :
  - OS ver:
 
 **Screenshots**
