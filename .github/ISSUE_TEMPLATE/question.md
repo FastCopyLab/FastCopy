@@ -2,7 +2,7 @@
 name: Question
 about: "(English)"
 title: ''
-labels: ''
+labels: question
 assignees: ''
 
 ---

@@ -2,7 +2,7 @@
 name: Feature request
 about: "(English)"
 title: ''
-labels: ''
+labels: enhancement
 assignees: ''
 
 ---

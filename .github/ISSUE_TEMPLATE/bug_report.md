@@ -2,7 +2,7 @@
 name: Bug report
 about: "(English)"
 title: ''
-labels: ''
+labels: bug
 assignees: ''
 
 ---
